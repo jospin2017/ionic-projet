@@ -25,3 +25,12 @@
 #container a {
   text-decoration: none;
 }
+
+ion-content{
+  --offset-top: 0px !important;
+  --offset-bottom: 0px !important;
+}
+
+ion-tab-button {
+  --color-selected: #eb445a;
+ }
